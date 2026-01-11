@@ -1,6 +1,7 @@
 +++
 date = '2026-01-11'
 title = 'Legislation'
+bookCollapseSection = true
 +++
 
 # Oregon's Housing-Related Legislation

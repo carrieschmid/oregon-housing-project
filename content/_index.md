@@ -5,4 +5,6 @@ title = 'Home'
 
 # Oregon Housing Project
 
-It's too expensive to become a homeowner in Oregon, and Oregon is building too little housing. The goal for the Oregon Housing Project is to provide an in-depth exploration of the topic that's accessible to many. [Learn more](/about/)
+Oregon isn't building enough housing, its housing is too expensive, and at least some of Oregon's regulatory approach is counter-productive. The mission of the Oregon Housing Project is to provide an in-depth exploration of the topic that's accessible to many.
+
+[Learn more about the project](/about/)

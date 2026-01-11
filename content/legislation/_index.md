@@ -1,6 +1,6 @@
 +++
 date = '2026-01-11'
-title = 'Legislation'
+title = 'Housing-Related Legislation'
 bookCollapseSection = true
 +++
 

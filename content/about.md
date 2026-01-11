@@ -4,6 +4,8 @@ title = 'About'
 weight = 1
 +++
 
+# About The Oregon Housing Project
+
 The mission of the Oregon Housing Project is to explore the topic of housing in Oregon at depth in a way that makes the topic accessible to more people. When it presents analysis, the project is biased towards these opinions:
 
 * Oregon isn't building enough housing.

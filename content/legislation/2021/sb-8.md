@@ -9,4 +9,4 @@ Senate Bill 8 (2021) removed zoning barriers to building affordable housing. It 
 
 SB 8 has made it easier and faster for nonprofits to site affordable apartments on underutilized commercial parcels or church-owned land, directly boosting the potential housing supply.
 
-[NLIHC Memo](https://nlihc.org/resource/oregon-enacts-legislation-allow-affordable-housing-non-residentially-zoned-land)
+[Download PDF](/legislation/2021/files/sb-8.pdf) | [NLIHC Memo](https://nlihc.org/resource/oregon-enacts-legislation-allow-affordable-housing-non-residentially-zoned-land) | [OLIS Overview](https://olis.oregonlegislature.gov/liz/2021R1/Measures/Overview/SB8)

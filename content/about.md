@@ -24,8 +24,6 @@ Large Language Models (LLMs, or "AI") are much better or faster than humans in s
 
 ## Open Source
 
-The Oregon Housing Project is an [open source project on GitHub](https://github.com/danielbachhuber/oregon-housing-project). You can review the repository history to see the provenance of a given bit of information, or the discussion around it.
+The Oregon Housing Project is an [open source project on GitHub](https://github.com/danielbachhuber/oregon-housing-project). In the context of the project, "open source" primarily means that the project aims to be as transparent as possible. You should be able to see the provenance for a given bit of information, or the discussion around it.
 
-In the context of the project, "open source" primarily means that the project aims to be as transparent as possible. You should be able to see the provenance for a given bit of information, or the discussion around it.
-
-If you'd like to participate, feel free to [create a new issue](https://github.com/danielbachhuber/oregon-housing-project/issues/new) or submit a pull request!
+The project also welcomes contributions! Please [read the contribute page](/contribute) for more information.

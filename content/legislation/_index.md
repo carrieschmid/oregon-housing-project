@@ -36,7 +36,6 @@ bookCollapseSection = true
 | 2023 | [HB 2001](/legislation/2023/hb-2001) | Significant eviction reform (10-day notice) and Oregon Housing Needs Analysis (OHNA). |
 | 2023 | [HB 5019](/legislation/2023/hb-5019) | Affordable Housing and Emergency Homelessness Response Package. |
 | 2022 | [HB 4064](/legislation/2022/hb-4064) | Promotes transit-oriented development near public transit. |
-| 2021 | [HB 2001](/legislation/2021/hb-2001) | Middle housing implementation and state oversight authority. |
 | 2021 | [HB 2003](/legislation/2021/hb-2003) | Affordable housing incentives; requires cities to allow ADUs. |
 | 2021 | [SB 458](/legislation/2021/sb-458) | Grants cities authority to adopt inclusionary zoning ordinances. |
 | 2021 | [HB 3395](/legislation/2021/hb-3395) | Preserves affordable manufactured housing communities. |

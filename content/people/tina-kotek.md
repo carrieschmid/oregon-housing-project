@@ -21,7 +21,7 @@ Tina Kotek is Oregon's 39th Governor, serving since January 2023. Before becomin
 
 - **Homelessness State of Emergency**: Declared on her first day in office (January 2023) and extended twice since. Under the emergency order, Oregon has created or preserved over 6,250 shelter beds, housed more than 5,500 homeless Oregonians, and prevented nearly 26,000 households from becoming homeless.
 
-- **Housing Production Goal**: Set an ambitious target of building 36,000 new homes per year—nearly double Oregon's recent annual average. By 2026, secured approximately $1.5 billion for affordable rental and homeownership projects and financed or opened nearly 14,000 affordable homes with state support.
+- **[Housing Production Goal (EO 23-04)](/legislation/2023/eo-23-04)**: Set an ambitious target of building 36,000 new homes per year—nearly double Oregon's recent annual average. By 2026, secured approximately $1.5 billion for affordable rental and homeownership projects and financed or opened nearly 14,000 affordable homes with state support.
 
 - **[HB 2138 (2025)](/legislation/2025/hb-2138)**: Signed into law, this bill streamlines middle housing rules and prevents local governments from blocking duplex and triplex construction on single-family zoned land, building on her earlier HB 2001 work.
 

@@ -93,7 +93,7 @@ A City Council work session in April 2025 addressed rising housing instability a
 
 [^6]: [Tualatin Life: Tualatin Seeks Code Changes to Allow Middle Housing](https://tualatinlife.com/featured/tualatin-seeks-code-changes-to-allow-middle-housing/)
 
-[^7]: [Tualatin Life: Tualatin Heights Re-zoning Passes City Council](https://tualatinlife.com/local-news/tualatin-heights-re-zoning-passes-city-council-in-second-vote/)
+[^7]: [Tualatin Life: Tualatin City Council Grapples With New Zoning Requirements](https://tualatinlife.com/local-news/tualatin-city-council-grapples-with-new-zoning-requirements/)
 
 [^8]: [City of Tualatin Housing Needs Analysis (December 2019)](https://www.tualatinoregon.gov/sites/default/files/fileattachments/planning/page/22631/hna.pdf)
 

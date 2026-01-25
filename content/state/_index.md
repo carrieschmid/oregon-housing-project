@@ -1,8 +1,8 @@
 +++
-title = 'State Agencies'
+title = 'State'
 date = '2026-01-24'
 +++
 
-# State Agencies
+# State
 
-Oregon state agencies involved in housing policy.
+Oregon state agencies, programs, and policies related to housing.

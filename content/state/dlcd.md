@@ -11,6 +11,8 @@ The Oregon Department of Land Conservation and Development (DLCD) is the state's
 
 DLCD was established in 1973 under Senate Bill 100, which created Oregon's nationally recognized statewide land use planning program.[^1] A seven-member volunteer citizen board known as the Land Conservation and Development Commission (LCDC) guides DLCD and adopts administrative rules that local governments must follow.
 
+The agency has approximately 115 full-time equivalent (FTE) positions as of the 2023-25 biennium budget.[^3]
+
 **Contact Information:**
 - Address: 635 Capitol Street NE, Suite 150, Salem, OR 97301
 - Phone: 503-373-0050
@@ -76,3 +78,5 @@ HAPO is a division within DLCD focused on accelerating housing production and en
 [^1]: [Oregon Department of Land Conservation and Development](https://en.wikipedia.org/wiki/Oregon_Department_of_Land_Conservation_and_Development), Wikipedia
 
 [^2]: [Required Housing Reporting](https://www.oregon.gov/lcd/housing/pages/reporting.aspx), Department of Land Conservation and Development
+
+[^3]: [2023-25 Budget Highlights](https://www.oregonlegislature.gov/lfo/Documents/2023-25%20Budget%20Highlights.pdf), Oregon Legislative Fiscal Office

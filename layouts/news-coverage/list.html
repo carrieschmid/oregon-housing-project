@@ -1,0 +1,28 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+
+  <table>
+    <thead>
+      <tr>
+        <th>Article</th>
+        <th>Source</th>
+        <th>Date</th>
+        <th>Summary</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range .Pages.Reverse }}
+      <tr>
+        <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+        <td>{{ .Params.source }}</td>
+        <td>{{ .Date.Format "January 2, 2006" }}</td>
+        <td>{{ .Plain | replaceRE (printf "^%s\\s*" .Title) "" | truncate 200 }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</article>
+{{ end }}

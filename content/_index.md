@@ -5,10 +5,6 @@ title = 'Home'
 
 # Oregon Housing Project
 
-Oregon isn't building enough housing, its housing is too expensive, and at least some of Oregon's regulatory approach is counter-productive. The mission of the Oregon Housing Project is to provide an in-depth exploration of the topic that's accessible to many.
-
-## About The Oregon Housing Project {#about}
-
 The mission of the Oregon Housing Project is to explore the topic of housing in Oregon at depth in a way that makes the topic accessible to more people. When it presents analysis, the project is biased towards these opinions:
 
 * Oregon isn't building enough housing.
@@ -16,6 +12,19 @@ The mission of the Oregon Housing Project is to explore the topic of housing in 
 * At least some of Oregon's regulatory approach is counter-productive; adding regulation paradoxically slows the rate of building and/or makes it more expensive.
 
 The majority of the research depth focuses on Oregon. As appropriate, examples from other states are included as a point of reference.
+
+## What's On This Website
+
+The Oregon Housing Project catalogs and analyzes Oregon's housing policy landscape:
+
+* **Legislation**: Bills, executive orders, and ballot measures that shape housing policy
+* **People**: Politicians and policymakers involved in housing decisions
+* **Cities**: Detailed profiles of individual Oregon cities and their housing situations
+* **News Coverage**: Media reporting on housing policy developments
+* **Key Concepts**: Educational content explaining housing policy terms and issues
+* **Metrics**: Data on housing production and related statistics
+
+Browse the navigation menu to explore these areas in depth.
 
 ## Governance
 

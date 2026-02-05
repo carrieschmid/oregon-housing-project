@@ -1,7 +1,8 @@
 +++
 date = '2026-01-11'
 title = 'Key Housing Concepts'
-weight = 3
+weight = 1
+bookCollapseSection = false
 +++
 
 # Key Housing Concepts

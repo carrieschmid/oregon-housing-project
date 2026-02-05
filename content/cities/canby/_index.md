@@ -13,19 +13,26 @@ Canby is a growing city in Clackamas County with a rich agricultural heritage. T
 
 ## Housing Statistics
 
-[To be researched and populated]
+Canby has a population of approximately 18,127 residents with a median household income of $100,268.[^2] The city is located in Clackamas County, one of the three counties in the Portland metropolitan area.
+
+Key housing data for Canby:
+- Population: ~18,127[^2]
+- Median household income: $100,268[^2]
+- Location: Clackamas County, approximately 25 miles south of Portland
+
+Additional housing statistics are being compiled as part of the city's Housing Production Strategy implementation.
 
 ## Zoning and Land Use
 
-Canby updated its development code to comply with [HB 2001 (2019)](/legislation/2019/hb-2001), which requires cities in the Metro region to allow middle housing types in residential zones.
+Canby updated its [development code](https://library.municode.com/or/canby/codes/code_of_ordinances) to comply with [HB 2001 (2019)](/legislation/2019/hb-2001), which requires cities in the Metro region to allow middle housing types in residential zones.
 
 ## Buildable Land
 
-[To be researched and populated]
+Information about Canby's buildable land inventory and residential capacity is detailed in the city's Housing Production Strategy.[^1] The strategy addresses land supply constraints and future development capacity needed to meet projected housing needs.
 
 ## Recent Housing Developments
 
-**Housing Production Strategy**: In 2026, Canby's Housing Production Strategy was approved by the Oregon Department of Land Conservation and Development (DLCD).[^1] The strategy outlines the city's plans for meeting future housing needs.
+**Housing Production Strategy**: On October 16, 2025, Canby's Housing Production Strategy was approved by the Oregon Department of Land Conservation and Development (DLCD) through Resolution 1443.[^1] The strategy outlines the city's plans for meeting future housing needs.
 
 ## Key Housing Challenges
 
@@ -37,4 +44,6 @@ The city has developed and received approval for a Housing Production Strategy t
 
 ## Sources
 
-[^1]: [Canby Housing Production Strategy (DLCD Resolution 1443)](canby-hps.pdf)
+[^1]: [Canby Housing Production Strategy (DLCD Resolution 1443, October 16, 2025)](canby-hps.pdf)
+
+[^2]: [Data USA: Canby, OR](https://datausa.io/profile/geo/canby-or)

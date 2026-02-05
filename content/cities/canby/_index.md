@@ -32,7 +32,7 @@ Information about Canby's buildable land inventory and residential capacity is d
 
 ## Recent Housing Developments
 
-**Housing Production Strategy**: On October 16, 2025, Canby's Housing Production Strategy was approved by the Oregon Department of Land Conservation and Development (DLCD) through Resolution 1443.[^1] The strategy outlines the city's plans for meeting future housing needs.
+**Housing Production Strategy**: On February 4, 2026, Canby's Housing Production Strategy was approved by the Oregon Department of Land Conservation and Development (DLCD).[^1]
 
 ## Key Housing Challenges
 
@@ -52,8 +52,8 @@ The city has developed and received approval for a Housing Production Strategy t
 
 ## Sources
 
-[^1]: [Canby Housing Production Strategy (DLCD Resolution 1443, October 16, 2025)](canby-hps.pdf)
+[^1]: [Canby Housing Production Strategy Final Decision (February 4, 2026)](https://www.oregon.gov/lcd/Housing/Documents/Canby_HPS_Final_Decision_02042025.pdf)
 
 [^2]: [Data USA: Canby, OR](https://datausa.io/profile/geo/canby-or)
 
-[^3]: [Canby Housing Needs Assessment (August 2024)](canby-hna.pdf)
+[^3]: [Canby Housing Needs Assessment (August 2024)](https://www.canbyoregon.gov/sites/default/files/fileattachments/development_services/page/24497/canby_adopted_housing_needs_assessment.pdf)

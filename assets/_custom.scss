@@ -1,0 +1,19 @@
+/* Custom styles for Oregon Housing Project */
+
+/* Add visual separation before Contribute menu item */
+.book-menu nav > ul > li:last-child {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--gray-200);
+}
+
+/* Ensure dark mode support */
+.book-menu nav > ul > li:last-child {
+  border-top-color: var(--gray-200);
+}
+
+@media (prefers-color-scheme: dark) {
+  .book-menu nav > ul > li:last-child {
+    border-top-color: var(--gray-600);
+  }
+}

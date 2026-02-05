@@ -1,6 +1,8 @@
 +++
 title = 'Metrics'
 date = '2026-01-23'
+weight = 10
+bookCollapseSection = true
 +++
 
 # Metrics

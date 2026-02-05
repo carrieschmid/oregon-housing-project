@@ -28,7 +28,7 @@ Canby updated its [development code](https://library.municode.com/or/canby/codes
 
 ## Buildable Land
 
-Information about Canby's buildable land inventory and residential capacity is detailed in the city's Housing Needs Analysis[^3] and Housing Production Strategy.[^1] These documents address land supply constraints and future development capacity needed to meet projected housing needs.
+Information about Canby's buildable land inventory and residential capacity is detailed in the city's Housing Production Strategy[^1] and Housing Needs Analysis.[^3] These documents address land supply constraints and future development capacity needed to meet projected housing needs.
 
 ## Recent Housing Developments
 
@@ -48,4 +48,4 @@ The city has developed and received approval for a Housing Production Strategy t
 
 [^2]: [Data USA: Canby, OR](https://datausa.io/profile/geo/canby-or)
 
-[^3]: [Canby Housing Needs Assessment](canby-hna.pdf)
+[^3]: [Canby Housing Needs Assessment (August 2024)](canby-hna.pdf)

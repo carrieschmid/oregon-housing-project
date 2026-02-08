@@ -1,0 +1,15 @@
+{{/*
+This Hugo list template should render a list of organization pages.
+Each item should show title, description, and website.
+*/}}
+
+{{ range .Pages }}
+  <div class="organization">
+    <h2>{{ .Title }}</h2>
+    <p>{{ .Description }}</p>
+    <a href="{{ .Params.website }}">{{ .Params.website }}</a>
+  </div>
+{{ end }}
+
+
+
